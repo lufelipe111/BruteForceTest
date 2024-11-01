@@ -7,11 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c753dfa-e9d0-4e97-9cbb-5dc6e05e19ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BruteForceTest/BruteForceTest.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BruteForceTest/bin/Debug/net8.0/BruteForceTest.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BruteForceTest/bin/Debug/net8.0/BruteForceTest.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="1c753dfa-e9d0-4e97-9cbb-5dc6e05e19ea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +34,7 @@
   &quot;keyToString&quot;: {
     &quot;.NET Project.ConsoleApp1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -76,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730415698155</updated>
-      <workItem from="1730415698703" duration="4118000" />
+      <workItem from="1730415698703" duration="4611000" />
     </task>
     <servers />
   </component>
